@@ -234,3 +234,4 @@ Trong Python, kiểu dữ liệu đại diện cho các giá trị boolean là b
 Sử dụng boolean trong các mệnh đề điều kiện và sử dụng boolean trong các toán tử logic
 Các giá trị boolean có thể được kết hợp và thao tác bằng các toán tử logic như and, or, và not.# HIT_WEB_PUBLIC_2024.
 # HIT_WEB_PUBLIC_2024.
+# HIT_WEB_PUBLIC_2024.
