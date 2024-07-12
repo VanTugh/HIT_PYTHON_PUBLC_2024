@@ -1,0 +1,38 @@
+#heading {
+    color:aliceblue;
+    font-size: 50px;
+    font-style:normal;
+    background-color: orange;
+    
+}
+strong
+{
+    color: red;
+}
+h3
+{
+    font-style: italic;
+    color: red;
+}
+h5
+{
+    font-size: 22px;
+    background-color: black;
+    color: aliceblue;
+}
+th, td
+{
+  border: 1px solid black;
+  padding: 10px;
+  text-align: left;
+}
+th
+{
+    background-color: aliceblue;
+
+}
+table 
+{
+    width :80%;
+    border-collapse: collapse;
+}
