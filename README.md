@@ -1,5 +1,4 @@
 # HIT_PYTHON_PUBLC_2024
-# HIT_PYTHON_PUBLC_2024
 Bài 1: Python là ngôn ngữ thông dịch vì nó thực thi mã nguồn từng dòng một bằng trình thông dịch, không biên dịch trước thành mã máy, và yêu cầu môi trường thông dịch để chạy mã nguồn.Nếu có lỗi trong mã chương trình, nó sẽ ngừng chạy. Do đó, lập trình viên có thể nhanh chóng tìm ra lỗi trong đoạn mã.
 Bài 2:
 Các kiểu dữ liệu trong Python:
@@ -234,5 +233,3 @@ Kiểu dữ liệu true, false:
 Trong Python, kiểu dữ liệu đại diện cho các giá trị boolean là bool. Kiểu dữ liệu này chỉ có hai giá trị: True và False.
 Sử dụng boolean trong các mệnh đề điều kiện và sử dụng boolean trong các toán tử logic
 Các giá trị boolean có thể được kết hợp và thao tác bằng các toán tử logic như and, or, và not.# HIT_WEB_PUBLIC_2024.
-# HIT_WEB_PUBLIC_2024.
-# HIT_WEB_PUBLIC_2024.
